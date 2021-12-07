@@ -1,4 +1,3 @@
-# thuhackersclub
 # 東海駭客社社課 Web Hacking Intro 0x01
 
 ## web security簡介
